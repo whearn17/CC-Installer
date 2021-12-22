@@ -9,5 +9,5 @@ shell.run("wget https://raw.githubusercontent.com/whearn17/CC-NetworkingSuite/ma
 print("Installing CC-Tools")
 shell.run("mkdir /CC-Tools")
 shell.run("wget https://raw.githubusercontent.com/whearn17/CC-Tools/main/easyfile.lua /CC-Tools/easyfile.lua")
-shell.run("wget https://github.com/whearn17/CC-Tools/blob/main/extrastring.lua /CC-Tools/extrastring.lua")
+shell.run("wget https://raw.githubusercontent.com/whearn17/CC-Tools/main/extrastring.lua /CC-Tools/extrastring.lua")
 
